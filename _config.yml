@@ -101,7 +101,7 @@ venueTitle: "Auditorio A"
 venueFeatures: ["3 salones", "", ""]
 
 # Tweets Feed Block
-tweetsFeedImage: "../twitter-feed.jpg"
+tweetsFeedImage: "twitter-feed.jpg"
 tweetsFeedTitle: ¡Interactúa con nosotros!
 twitterHashTag: "ldf14"
 
@@ -155,7 +155,7 @@ blogCommentsEnabled: true
 discusShortName: "limadevfest"
 
 # Speakers List Block
-showSessions: false
+showSessions: false 
 speakerTitle: "#limadevfest"
 speakerRows:
  - {title: "Programa", image: "hackathon-2.png", details: "Estamos construyendo el programa para tu máximo beneficio. Gracias por la espera #limadevfest."}
