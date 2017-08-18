@@ -9,10 +9,10 @@ title: "GDG DevFest Season 2014"
 email: "limadevfest@gmail.com"
 description: "GDG DevFest is a set of events all around the world"
 baseurl: ""
-url: "http://limadevfest.com"
+url: "http://2014.devfest.pe"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-55838618-1"
-googleAnalyticsSiteUrl: "limadevfest.com"
+googleAnalyticsSiteUrl: "2014.devfest.pe"
 
 # Head
 metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers, lviv"
@@ -101,7 +101,7 @@ venueTitle: "Auditorio A"
 venueFeatures: ["3 salones", "", ""]
 
 # Tweets Feed Block
-tweetsFeedImage: "twitter-feed.jpg"
+tweetsFeedImage: "../twitter-feed.jpg"
 tweetsFeedTitle: ¡Interactúa con nosotros!
 twitterHashTag: "ldf14"
 
